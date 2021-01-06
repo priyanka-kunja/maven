@@ -9,7 +9,7 @@ public class Calculatot {
 	
 		public double addition(double a,double b)
 		{
-			return (a+b);
+			return (a*b);
 		}
 		public int substraction(int a,int b)
 		{
